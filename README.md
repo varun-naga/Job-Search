@@ -17,3 +17,6 @@
 ## Tech-Stack
 * React Native
 * Redux
+
+## Installation
+``` npm install ```
